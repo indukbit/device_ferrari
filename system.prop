@@ -14,7 +14,7 @@ camera2.portability.force_api=1
 persist.camera.hal.debug.mask=0
 
 # Display
-ro.sf.lcd_density=480
+ro.sf.lcd_density=441
 
 # Media
 media.stagefright.legacyencoder=true
