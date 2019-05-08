@@ -22,7 +22,6 @@ DEVICE_PATH := device/xiaomi/ferrari
 TARGET_BOARD_INFO_FILE := $(DEVICE_PATH)/board-info.txt
 
 # Audio
-USE_CUSTOM_AUDIO_POLICY := 0
 BOARD_USES_GENERIC_AUDIO := true
 TARGET_USES_QCOM_MM_AUDIO := true
 
